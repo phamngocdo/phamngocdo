@@ -15,7 +15,7 @@
 <h3 align="left">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,html,css,mysql,sqlite,latex&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,matlab,py,js,html,css,mysql,sqlite,latex&theme=light" />
   </a>
 </p>
 <h3 align="left">Libraries and Frameworks:</h3>
@@ -27,7 +27,7 @@
 <h3 align="left">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,webstorm,idea,pycharm,anaconda,maven,git,ubuntu&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,nodejs,postman,webstorm,idea,pycharm,anaconda,maven,git,ubuntu&theme=light" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamngocdo&show_icons=true&locale=en&layout=compact" alt="phamngocdo" /></p>
