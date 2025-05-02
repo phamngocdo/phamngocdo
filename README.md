@@ -13,22 +13,22 @@
 <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-ng%E1%BB%8Dc-%C4%91%C3%B4-25b7b5280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ph%e1%ba%a1m-ng%e1%bb%8dc-%c4%91%c3%b4-25b7b5280/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages and databases:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,matlab,py,js,html,css,mysql,sqlite,latex&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,matlab,py,js,html,css,mongodb,mysql,sqlite,latex&theme=light" />
   </a>
 </p>
 <h3 align="left">Libraries and Frameworks:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,materialui&theme=light" />
+    <img src="https://skillicons.dev/icons?i=fastapi,pytorch,tensorflow,sklearn,materialui&theme=light" />
   </a>
 </p>
 <h3 align="left">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,nodejs,postman,webstorm,idea,pycharm,anaconda,maven,git,ubuntu&theme=light" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,nodejs,postman,webstorm,idea,pycharm,anaconda,maven,git,ubuntu&theme=light" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamngocdo&show_icons=true&locale=en&layout=compact" alt="phamngocdo" /></p>
