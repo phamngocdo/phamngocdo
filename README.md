@@ -22,7 +22,7 @@
 <h3 align="left">Libraries and Frameworks:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,pytorch,tensorflow,sklearn,materialui&theme=light" />
+    <img src="https://skillicons.dev/icons?i=fastapi,pytorch,sklearn,materialui&theme=light" />
   </a>
 </p>
 <h3 align="left">Tools:</h3>
