@@ -29,7 +29,7 @@
 <h3 align="left">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,nodejs,postman,webstorm,idea,pycharm,anaconda,maven,git,ubuntu&theme=light" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,docker,postman,webstorm,idea,pycharm,anaconda,maven,git,ubuntu&theme=light" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamngocdo&show_icons=true&locale=en&layout=compact" alt="phamngocdo" /></p>
