@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Do Pham Ngoc</h1>
-<h3 align="center">Senior Computer Engineering student at University of Engineering and Technology, Vietnam National University</h3>
+<h3 align="center">Computer Engineering Student at University of Engineering and Technology, Vietnam National University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamngocdo&label=Profile%20views&color=0e75b6&style=flat" alt="phamngocdo" /> </p>
 
@@ -13,23 +13,29 @@
 <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-ng%E1%BB%8Dc-%C4%91%C3%B4-25b7b5280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ph%e1%ba%a1m-ng%e1%bb%8dc-%c4%91%c3%b4-25b7b5280/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and databases:</h3>
-<p align="center">
+<h3 align="left">Languages:</h3>
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,matlab,py,js,html,css,mongodb,mysql,sqlite,latex&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,matlab,py,js,html,css,bash,latex&theme=light" />
+  </a>
+</p>
+<h3 align="left">Databases:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=light" />
   </a>
 </p>
 <h3 align="left">Libraries and Frameworks:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,fastapi,pytorch,sklearn,materialui&theme=light" />
+    <img src="https://skillicons.dev/icons?i=express,fastapi,pytorch,sklearn,opencv&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,docker,postman,webstorm,idea,pycharm,anaconda,maven,git,ubuntu&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,docker,postman,git,ubuntu&theme=light" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamngocdo&show_icons=true&locale=en&layout=compact" alt="phamngocdo" /></p>
