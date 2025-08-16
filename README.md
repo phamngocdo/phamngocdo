@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Do Pham Ngoc</h1>
-<h3 align="center">Computer Engineering Student at University of Engineering and Technology, Vietnam National University</h3>
+<h3 align="center">Computer Engineering Student at VNU-UET</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamngocdo&label=Profile%20views&color=0e75b6&style=flat" alt="phamngocdo" /> </p>
 
