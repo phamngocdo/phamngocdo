@@ -28,7 +28,7 @@
 <h3 align="left">Libraries and Frameworks:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,fastapi,pytorch,sklearn,opencv&theme=light" />
+    <img src="https://skillicons.dev/icons?i=express,fastapi,tensorflow,sklearn,opencv&theme=light" />
   </a>
 </p>
 
