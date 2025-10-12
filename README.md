@@ -38,6 +38,10 @@
     <img src="https://skillicons.dev/icons?i=vscode,docker,postman,git,ubuntu&theme=light" />
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamngocdo&show_icons=true&locale=en&layout=compact" alt="phamngocdo" /></p>
+<p>
+  <img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=phamngocdo&show_icons=true&locale=en&layout=compact&hide=C"
+    alt="phamngocdo" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phamngocdo&show_icons=true&locale=en" alt="phamngocdo" /></p>
